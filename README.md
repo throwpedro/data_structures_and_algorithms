@@ -2,7 +2,7 @@
 
 Implementations of different data structures and algorithms.
 
-### typescript
+### Typescript
 
  - ```cd typescript```
  - ```npm i```
